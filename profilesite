@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Black+Ops+One&family=Creepster&family=La+Belle+Aurore&family=MedievalSharp&family=Orbitron&family=Rye&display=swap" rel="stylesheet">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <!-- 
+        Challenge 1:
+        Write the HTML for your personal website.
+        -->
+        <img src="per.jpg">
+        <h1>Have You Seen This Man?</h1>
+        <h2>He is wanted for:</h2>
+        <ul>
+            <li>War crimes in Tears Of the Kingdom, probably</li>
+            <li>Educating the masses</li>
+            <li>Saying bananas are his favorite fruit</li>
+        </ul>
+        <p>If spotted, notify the appropriate authorities <a href="https://github.com/trees-rt">Here</a>
+        </p>
+        <input type="text" placeholder="Enter email">
+        <button>Sign up for crime alerts</button>
+    </body>
+</html>
